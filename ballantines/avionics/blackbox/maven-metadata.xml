@@ -3,10 +3,10 @@
   <groupId>ballantines.avionics</groupId>
   <artifactId>blackbox</artifactId>
   <versioning>
-    <release>1.3</release>
+    <release>1.4</release>
     <versions>
-      <version>1.3</version>
+      <version>1.4</version>
     </versions>
-    <lastUpdated>20160423215839</lastUpdated>
+    <lastUpdated>20160704150525</lastUpdated>
   </versioning>
 </metadata>
